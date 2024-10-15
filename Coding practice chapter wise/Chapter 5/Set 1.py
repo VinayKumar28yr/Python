@@ -1,0 +1,27 @@
+s = set()
+n = input("Enter number: ")
+s.add(int(n))  
+n = input("Enter number: ")
+s.add(int(n))  
+n = input("Enter number: ")
+s.add(int(n))  
+n = input("Enter number: ")
+s.add(int(n))  
+n = input("Enter number: ")
+s.add(int(n))  
+n = input("Enter number: ")
+s.add(int(n))  
+n = input("Enter number: ")
+s.add(int(n))  
+n = input("Enter number: ")
+s.add(int(n))  
+
+print(s)
+
+# AND 
+a = set()
+a.add(18)
+a.add("18")
+a.add(98.342)
+
+print(a)
